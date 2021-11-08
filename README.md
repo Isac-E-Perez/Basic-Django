@@ -22,7 +22,7 @@
 
        $ pip --version
        
-5. Use `pip` to install pipenv: (The version I am using is `pipenv 2021.11.5.post0`)
+5. Use `pip` to install pipenv: The version I am using is `pipenv 2021.11.5.post0`. 
 
        $ sudo pip install pipenv
        
@@ -30,7 +30,7 @@
 
        $ sudo pip install virtualenv
        
-7. Ensure installation by checking the version: (The version I am using is `virtualenv 20.10.0`) 
+7. Ensure installation by checking the version: The version I am using is `virtualenv 20.10.0`. 
 
        $ virtualenv --version 
        
