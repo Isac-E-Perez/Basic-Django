@@ -26,4 +26,8 @@
 
        $ pip install --user pipenv
        
-6. 
+6. As well as install virtualenv tool.
+
+       $ sudo pip install virtualenv
+       
+7. 
