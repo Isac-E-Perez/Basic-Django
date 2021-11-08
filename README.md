@@ -35,5 +35,12 @@
 
 # Getting Started
 
+1. Install Rails at the command prompt if you haven't yet:
+
+        gem install rails
+
+2. At the command prompt, create a new Rails application:
+
+
 1. Install Python at the command prompt if you haven't yet: 
 `https://www.python.org/downloads/`
