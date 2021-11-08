@@ -34,7 +34,7 @@
        
 6. As well as install virtualenv. virtualenv is a tool to create isolated Python environments. virtualenv creates a folder which contains all the necessary executables to use the packages that a Python project would need.
 
-       $ sudo pip install virtualenv
+       $ pip install virtualenv
        
 7. Ensure installation by checking the version: The version I am using is `virtualenv 20.10.0`. 
 
