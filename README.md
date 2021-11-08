@@ -22,7 +22,7 @@
 
        $ pip --version
        
-5. Use `pip` to install pipenv: (The version I am using is `pipenv 2021.11.5.post0)
+5. Use `pip` to install pipenv: (The version I am using is `pipenv 2021.11.5.post0`)
 
        $ sudo pip install pipenv
        
