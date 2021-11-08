@@ -26,10 +26,11 @@
             
        $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"     
        
-7. Use `brew` to install pyenv:  
+7. Use `brew` to install pyenv and upgrade to latest version: The version I am using is `pyenv 2.2.0`.
        
        $ brew update
        $ brew install pyenv
+       $ brew upgrade pyenv
        
 6. As well as install virtualenv. virtualenv is a tool to create isolated Python environments. virtualenv creates a folder which contains all the necessary executables to use the packages that a Python project would need.
 
