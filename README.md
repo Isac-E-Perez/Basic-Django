@@ -30,6 +30,6 @@
 
        $ sudo pip install virtualenv
        
-7. Ensure installation by checking the version. The version I am using is virtualenv 20.10.0.
+7. Ensure installation by checking the version. The version I am using is `virtualenv 20.10.0`.
 
        $ virtualenv --version 
