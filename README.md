@@ -32,3 +32,8 @@
   ]
 }
 ```
+
+# Getting Started
+
+1. Install Python at the command prompt if you haven't yet: 
+`https://www.python.org/downloads/`
