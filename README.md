@@ -1,4 +1,4 @@
-# Basic with Data Science Project 
+# Django with Data Science Project
 
 ### About:
 
