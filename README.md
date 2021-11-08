@@ -29,7 +29,7 @@
 7. Use `brew` to install pyenv:  
        
        $ brew update
-       $ pip install pyenv
+       $ brew install pyenv
        
 6. As well as install virtualenv. virtualenv is a tool to create isolated Python environments. virtualenv creates a folder which contains all the necessary executables to use the packages that a Python project would need.
 
