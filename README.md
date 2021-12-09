@@ -1,9 +1,10 @@
 # Django with Data Science Project
 
 ### About:
-Installation of django, pandas, matplotlib and seaborn inside of a virtualenv with the use of numpy which was downloaded with the pandas package.
+Created a professional and nicely looking User Interface in Django for Data Science with the use of Semantic UI framework. I gained an understanding of the core concepts behind Pandas, Numpy, Matplotlib and Seaborn in order to create my own custom analytic tool. 
 
 ### Notes:
+You have to install django, pandas, matplotlib and seaborn inside of a virtualenv. Additionally, numpy will be downloaded with the pandas package.  
 
 ### Results:
  
