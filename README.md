@@ -1,7 +1,7 @@
 # Django with Data Science Project
 
 ### About:
-I created a professional and nicely looking User Interface in Django for Data Science with the use of Semantic UI framework. I gained an understanding of the core concepts behind Pandas, Numpy, Matplotlib and Seaborn in order to create my own custom analytic tool. I used Django in this project which is a high-level Python web framework that encourages rapid development and clean, pragmatic design. I used Django because it takes care of much of the hassle of web development, so I can focus on writing the application wihtout needing to reinvent the wheel.   
+I created a professional and nicely looking User Interface in Django for Data Science with the use of Semantic UI framework. I gained an understanding of the core concepts behind Pandas, Numpy, Matplotlib and Seaborn in order to create my own custom analytic tool. I used Django in this project which is a high-level Python web framework that encourages rapid development and clean, pragmatic design. I used Django because it takes care of much of the hassle of web development, so I can focus on writing the application.
 
 ### Notes:
 You have to install django, pandas, matplotlib and seaborn inside of a virtualenv. Additionally, numpy will be downloaded with the pandas package.  
